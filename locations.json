@@ -474,5 +474,19 @@
 			{"lat": 68.589, "lng": -130.677}
 			]
 	}
+	{
+		"id": 7004,
+		"type": "Restaurants",
+		"title": "White Widow",
+		"notes": "White Widow, owned by Dan J, Antonio Bolognio and Flower is the only place to pickup joints in the city which makes you more resistant to bullets.",
+		"order": 1,
+		"strokecolor": "E759E1",
+		"fillcolor": "E759E1",
+		"latlngarray": [
+			{"lat": 68.643, "lng": -127.126},
+			{"lat": 68.667, "lng": -126.676},
+			{"lat": 68.353, "lng": -126.478},
+			{"lat": 68.345, "lng": -126.917}
+			]
+	}
 ]
-
