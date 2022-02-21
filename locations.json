@@ -99,6 +99,36 @@
 			{"lat": 78.842, "lng": -123.430}
 			]
 	},	
+	{
+		"id": 1006,
+		"type": "Territories",
+		"title": "The Russians - Art Gallery",
+		"notes": "The Russians, founded by Slav Petrov is a Russian based gang.",
+		"order": 1,
+		"strokecolor": "990000",
+		"fillcolor": "FF3333",
+		"latlngarray": [
+			{"lat": 69.733, "lng": -129.371},
+			{"lat": 69.911, "lng": -129.360},
+			{"lat": 69.865, "lng": -128.547},
+			{"lat": 69.725, "lng": -128.558}
+			]
+	},	
+	{
+		"id": 1007,
+		"type": "Territories",
+		"title": "The Russians - Lake Vinewood Drive",
+		"notes": "The Russians ganghouse.",
+		"order": 1,
+		"strokecolor": "990000",
+		"fillcolor": "FF3333",
+		"latlngarray": [
+			{"lat": 71.486, "lng": -123.936},
+			{"lat": 71.497, "lng": -123.574},
+			{"lat": 71.399, "lng": -123.574},
+			{"lat": 71.392, "lng": -123.860}
+			]
+	},
 	{	
 		"id": 2001,
 		"type": "Neutral",
