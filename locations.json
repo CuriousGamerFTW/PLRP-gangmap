@@ -833,6 +833,27 @@
 			]
 	},
 	{
+		"id": 8008,
+		"type": "Businesses",
+		"title": "Bulldog Billiads",
+		"notes": "Bulldog Billiads, owned by Abbie Jade has functional pool tables and a variety of food and drink.",
+		"order": 1,
+		"strokecolor": "E759E1",
+		"fillcolor": "E759E1",
+		"latlngarray": [
+			{"lat": 67.543, "lng": -138.363},
+			{"lat": 67.465, "lng": -138.714},
+			{"lat": 67.495, "lng": -137.781},
+			{"lat": 67.599, "lng": -138.044},
+			{"lat": 67.385, "lng": -138.517},
+			{"lat": 67.461, "lng": -138.242},
+			{"lat": 67.398, "lng": -138.099},
+			{"lat": 67.300, "lng": -137.759},
+			{"lat": 67.419, "lng": -137.956},
+			{"lat": 67.343, "lng": -137.561}
+			]
+	},
+	{
 		"id": 9001,
 		"type": "Garages",
 		"title": "Rundown Hotel Garage - Opposite LostMC Compound",
