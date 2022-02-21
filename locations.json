@@ -187,7 +187,7 @@
 		"id": 2001,
 		"type": "Neutral",
 		"title": "The Casino",
-		"notes": "At the Casino you can do 2 daily spins on the wheel and use the blackjack tables it is ran by the Government.",
+		"notes": "At the Casino you can do 2 daily spins on the wheel and use the blackjack tables it is ran by Casino and the Government.",
 		"order": 1,
 		"strokecolor": "0080FF",
 		"fillcolor": "0080FF",
@@ -724,77 +724,112 @@
 		"id": 8002,
 		"type": "Businesses",
 		"title": "Animal Ark",
-		"notes": "",
+		"notes": "Animal Ark, owned by Stassy Vibes you can find lots of different pets such as; dogs, cats, chickens and rabbits.",
 		"order": 1,
 		"strokecolor": "E759E1",
 		"fillcolor": "E759E1",
 		"latlngarray": [
+			{"lat": 77.269, "lng": -119.286},
+			{"lat": 77.276, "lng": -119.088},
+			{"lat": 77.228, "lng": -119.033},
+			{"lat": 77.152, "lng": -118.967},
+			{"lat": 77.150, "lng": -119.220}
 			]
 	},
 	{
 		"id": 8003,
 		"type": "Businesses",
-		"title": "",
-		"notes": "",
+		"title": "Tequilala",
+		"notes": "Tequilala, owned by Frankie Silver is a great place to hosts parties.",
 		"order": 1,
 		"strokecolor": "E759E1",
 		"fillcolor": "E759E1",
 		"latlngarray": [
+			{"lat": 70.573, "lng": -129.944},
+			{"lat": 70.609, "lng": -130.593},
+			{"lat": 70.711, "lng": -130.560},
+			{"lat": 70.638, "lng": -129.944}
 			]
 	},
 	{
 		"id": 8004,
 		"type": "Businesses",
-		"title": "",
-		"notes": "",
+		"title": "Ikea",
+		"notes": "Ikea, owned by the government is a great place to find decorations for your crib.",
 		"order": 1,
 		"strokecolor": "E759E1",
 		"fillcolor": "E759E1",
 		"latlngarray": [
+			{"lat": 78.498, "lng": -97.667},
+			{"lat": 78.615, "lng": -99.040},
+			{"lat": 78.783, "lng": -98.743},
+			{"lat": 78.698, "lng": -97.304}
 			]
 	},
 	{
 		"id": 8005,
 		"type": "Businesses",
-		"title": "",
-		"notes": "",
+		"title": "Digital Den",
+		"notes": "Digital Den, owned by Elliot Alderson is a great spot to pick up tech and where you can buy mining rigs.",
 		"order": 1,
 		"strokecolor": "E759E1",
 		"fillcolor": "E759E1",
 		"latlngarray": [
+			{"lat": 68.118, "lng": -113.572},
+			{"lat": 68.098, "lng": -113.165},
+			{"lat": 67.970, "lng": -113.253},
+			{"lat": 67.945, "lng": -113.715}
 			]
 	},
 	{
 		"id": 8006,
 		"type": "Businesses",
-		"title": "",
-		"notes": "",
+		"title": "Comic Store",
+		"notes": "Comic Store, owned by Archie Hunter is where you can buy packs of trading cards and pop figures.",
 		"order": 1,
 		"strokecolor": "E759E1",
 		"fillcolor": "E759E1",
 		"latlngarray": [
+			{"lat": 70.447, "lng": -126.225},
+			{"lat": 70.466, "lng": -125.742},
+			{"lat": 70.351, "lng": -125.731},
+			{"lat": 70.351, "lng": -126.192}
 			]
 	},
 	{
 		"id": 8007,
 		"type": "Businesses",
-		"title": "",
-		"notes": "",
+		"title": "Pawn Shop",
+		"notes": "Pawn Shop, owned by Kelly Hill and Ruby is a great spot to sell electronics you no longer need as well as trading cards and pop vinyls",
 		"order": 1,
 		"strokecolor": "E759E1",
 		"fillcolor": "E759E1",
 		"latlngarray": [
+			{"lat": 70.691, "lng": -127.554},
+			{"lat": 70.698, "lng": -127.159},
+			{"lat": 70.596, "lng": -127.115},
+			{"lat": 70.604, "lng": -127.532}
 			]
 	},
 	{
 		"id": 8008,
 		"type": "Businesses",
-		"title": "",
-		"notes": "",
+		"title": "Bahama'mamas",
+		"notes": "Bahama'mamas, owned by Tyla Blue is a recently opened nightclub with special drinks.",
 		"order": 1,
 		"strokecolor": "E759E1",
 		"fillcolor": "E759E1",
 		"latlngarray": [
+			{"lat": 67.543, "lng": -138.363},
+			{"lat": 67.465, "lng": -138.714},
+			{"lat": 67.495, "lng": -137.781},
+			{"lat": 67.599, "lng": -138.044},
+			{"lat": 67.385, "lng": -138.517},
+			{"lat": 67.461, "lng": -138.242},
+			{"lat": 67.398, "lng": -138.099},
+			{"lat": 67.300, "lng": -137.759},
+			{"lat": 67.419, "lng": -137.956},
+			{"lat": 67.343, "lng": -137.561}
 			]
 	},
 	{
