@@ -293,6 +293,24 @@
 			]
 	},	
 	{
+		"id": 3007,
+		"type": "Automotive",
+		"title": "The Drift Track",
+		"notes": "The Drift Track owned by Steve O.",
+		"order": 2,
+		"strokecolor": "00CAD8",
+		"fillcolor": "00CAD8",
+		"latlngarray": [
+			{"lat": 59.389, "lng": -123.598},
+			{"lat": 59.063, "lng": -124.060},
+			{"lat": 59.012, "lng": -124.983},
+			{"lat": 59.883, "lng": -127.433},
+			{"lat": 59.944, "lng": -127.301},
+			{"lat": 59.955, "lng": -124.950},
+			{"lat": 59.478, "lng": -123.587}
+			]
+	},	
+	{
 		"id": 4001,
 		"type": "Heists",
 		"title": "Yacht",
