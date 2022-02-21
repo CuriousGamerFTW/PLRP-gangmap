@@ -17,6 +17,35 @@
 			{"lat": 63.518, "lng": -135.846}
 		]
 	},
+	{
+		"id": 1002,
+		"type": "Territories",
+		"title": "The Greys",
+		"notes": "They Greys are a gang that was founded by Wilson Powers and Dan J are considered the most deadly gang in Los Santos.",
+		"order": 1,
+		"strokecolor": "331D1D",
+		"fillcolor": "202020",
+		"latlngarray": [
+			{"lat": 58.459, "lng": -122.803},
+			{"lat": 58.442, "lng": -122.254},
+			{"lat": 58.448, "lng": -122.001},
+			{"lat": 58.431, "lng": -121.682},
+			{"lat": 58.384, "lng": -120.891},
+			{"lat": 57.839, "lng": -120.836},
+			{"lat": 57.710, "lng": -120.957},
+			{"lat": 57.634, "lng": -121.155},
+			{"lat": 57.569, "lng": -121.441},
+			{"lat": 57.023, "lng": -121.485},
+			{"lat": 56.981, "lng": -121.572},
+			{"lat": 55.329, "lng": -121.572},
+			{"lat": 55.317, "lng": -121.704},
+			{"lat": 54.902, "lng": -121.682},
+			{"lat": 54.915, "lng": -123.594},
+			{"lat": 57.757, "lng": -123.583},
+			{"lat": 58.002, "lng": -123.144},
+			{"lat": 58.008, "lng": -122.814}
+			]
+	},	
 	{	
 		"id": 2001,
 		"type": "Neutral",
