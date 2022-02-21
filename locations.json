@@ -1,3 +1,23 @@
 [
-
+	{
+		"id": 1,
+		"type": "Neutral",
+		"title": "The Casino",
+		"notes": "The Casino operated by the government where you can do 2 daily spins or try your luck in the blackjack table.",
+		"wiki_link": "",
+		"order": 1,
+		"strokecolor": "#551A8B",
+		"fillcolor": "#551A8B",
+		"latlngarray": [
+			{"lat": 69.523, "lng": -116.639},
+			{"lat": 69.368, "lng": -116.079},
+			{"lat": 69.268, "lng": -115.617},
+			{"lat": 69.372, "lng": -115.321},
+			{"lat": 69.430, "lng": -115.551},
+			{"lat": 69.881, "lng": -114.683},
+			{"lat": 70.002, "lng": -115.441},
+			{"lat": 69.725, "lng": -116.200},
+]
+		]
+	},
 ]
