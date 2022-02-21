@@ -1,13 +1,13 @@
 [
 	{
-		"id": 1001,
+		"id": 1,
 		"type": "Territories",
-		"title": "Ballas",
-		"notes": "Ballas are one of the largest South Side street gangs operating out of the Cul-de-sac on Grove Street, Davis.",
-		"wiki_link": "https://nopixel.fandom.com/wiki/Ballas",
+		"title": "The Devils",
+		"notes": "The Devils were founded in October 2020 by leaders Josh Dowling and Jimmy Salvador.",
+		"wiki_link": "",
 		"order": 1,
-		"strokecolor": "551A8B",
-		"fillcolor": "551A8B",
+		"strokecolor": "FFFFFF",
+		"fillcolor": "FFFFFF",
 		"latlngarray": [
 			{"lat": 62.383, "lng": -122.107},
 			{"lat": 61.797, "lng": -123.182},
@@ -465,36 +465,6 @@
 			{"lat": 63.675, "lng": -120.639},
 			{"lat": 63.474, "lng": -120.111},
 			{"lat": 63.558, "lng": -119.980}
-		]
-	},
-	{
-		"id": 1018,
-		"type": "Territories",
-		"title": "Bondi Boys MC",
-		"notes": "The Bondi Boys Motor Club (BBMC) or Bondi Boys & Babes Motor Club is a criminal gang operating out of Vespucci, founded by Irwin Dundee, Barry Benson and Riley Carter (Exiled).",
-		"wiki_link": "https://nopixel.fandom.com/wiki/Bondi_Boys_MC",
-		"order": 2,
-		"strokecolor": "1560BD",
-		"fillcolor": "1560BD",
-		"latlngarray": [
-			{"lat": 66.598, "lng": -137.650},
-			{"lat": 66.396, "lng": -137.255},
-			{"lat": 65.975, "lng": -137.013},
-			{"lat": 65.795, "lng": -136.848},
-			{"lat": 65.410, "lng": -136.552},
-			{"lat": 65.037, "lng": -136.376},
-			{"lat": 64.816, "lng": -136.105},
-			{"lat": 64.661, "lng": -135.908},
-			{"lat": 64.382, "lng": -135.600},
-			{"lat": 64.125, "lng": -135.226},
-			{"lat": 63.597, "lng": -134.424},
-			{"lat": 63.396, "lng": -134.007},
-			{"lat": 62.268, "lng": -136.512},
-			{"lat": 63.312, "lng": -138.039},
-			{"lat": 64.059, "lng": -138.963},
-			{"lat": 64.827, "lng": -139.490},
-			{"lat": 65.345, "lng": -140.211},
-			{"lat": 66.133, "lng": -138.707}
 		]
 	},
 	{
