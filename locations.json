@@ -129,7 +129,25 @@
 			{"lat": 71.392, "lng": -123.860}
 			]
 	},
-
+	{
+		"id": 1008,
+		"type": "Territories",
+		"title": "Epsilon Headquarters",
+		"notes": "Totally not a gang.",
+		"order": 1,
+		"strokecolor": "990000",
+		"fillcolor": "FF3333",
+		"latlngarray": [
+			{"lat": 69.958, "lng": -131.726},
+			{"lat": 69.980, "lng": -131.551},
+			{"lat": 70.025, "lng": -131.331},
+			{"lat": 70.067, "lng": -131.034},
+			{"lat": 69.841, "lng": -130.990},
+			{"lat": 69.832, "lng": -131.225},
+			{"lat": 69.768, "lng": -131.632},
+			{"lat": 69.859, "lng": -131.720}
+			]
+	},
 	{	
 		"id": 2001,
 		"type": "Neutral",
