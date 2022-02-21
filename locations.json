@@ -66,6 +66,43 @@
 			{"lat": 66.343, "lng": -115.428}
 			]
 	},	
+	{
+		"id": 1004,
+		"type": "Territories",
+		"title": "The LostMC Compound - Mirror Park Boulevard",
+		"notes": "The LostMC, founded by Tom Gomez is a biker gang that own a garage in city next to the Casino.",
+		"order": 1,
+		"strokecolor": "990000",
+		"fillcolor": "C0C0C0",
+		"latlngarray": [
+			{"lat": 69.241, "lng": -115.502},
+			{"lat": 69.396, "lng": -115.063},
+			{"lat": 69.171, "lng": -114.415},
+			{"lat": 69.061, "lng": -114.667}
+			]
+	},	
+	{
+		"id": 1005,
+		"type": "Territories",
+		"title": "The LostMC clubhouse - Stab City",
+		"notes": "The LostMC clubhouse up North in Stab City is their second territory that hosts their clubhouse.",
+		"order": 1,
+		"strokecolor": "990000",
+		"fillcolor": "C0C0C0",
+		"latlngarray": [
+			{"lat": 69.241, "lng": -115.502},
+			{"lat": 69.396, "lng": -115.063},
+			{"lat": 69.171, "lng": -114.415},
+			{"lat": 69.061, "lng": -114.667},
+			{"lat": 78.895, "lng": -125.067},
+			{"lat": 79.092, "lng": -125.144},
+			{"lat": 79.185, "lng": -124.199},
+			{"lat": 79.173, "lng": -123.474},
+			{"lat": 79.025, "lng": -123.254},
+			{"lat": 78.973, "lng": -123.386},
+			{"lat": 78.842, "lng": -123.430}
+			]
+	},	
 	{	
 		"id": 2001,
 		"type": "Neutral",
@@ -110,7 +147,7 @@
 		"title": "Mission Row PD",
 		"notes": "The Los Santos Police Department, along with the Paleto Bay Sheriff's Office, the Senora Desert Sheriff's Office, the San Andreas State Police and the San Andreas State Park Rangers, makes up the executive branch of Los Santos; together they ensure that the law is upheld and enforced.",
 		"order": 1,
-		"strokecolor": "FF0000",
+		"strokecolor": "030397",
 		"fillcolor": "0000FF",
 		"latlngarray": [
 			{"lat": 66.151, "lng": -120.516},
