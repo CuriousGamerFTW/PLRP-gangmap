@@ -42,10 +42,10 @@ To [danharper](https://github.com/danharper/) for [his work](https://github.com/
 To [gta5-map](https://github.com/gta5-map) for [their work](https://github.com/gta5-map/gta5-map.github.io) on the GTA V map.
 
 
-1-1000 are Territories
-1001-2000 are Neutral Zones
-2001-3000 are Automotive
-3001-4000 are Heists
-4001-5000 are Legal
-5001-6000 are Medical
-6001-7000 are Restaurants
+1001-2000 are Territories
+2001-3000 are Neutral Zones
+3001-4000 are Automotive
+4001-5000 are Heists
+5001-6000 are Legal
+6001-7000 are Medical
+7001-8000 are Restaurants
