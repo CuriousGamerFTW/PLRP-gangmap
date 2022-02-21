@@ -427,5 +427,52 @@
 			{"lat": 81.192, "lng": -100.457},
 			{"lat": 81.144, "lng": -100.776}
 		]
+	},
+	{
+		"id": 7001,
+		"type": "Restaurants",
+		"title": "Burgershot",
+		"notes": "Burgershot, owned by Dan Featherstone is one of the most popular places to get food in the city!.",
+		"order": 1,
+		"strokecolor": "E759E1",
+		"fillcolor": "E759E1",
+		"latlngarray": [
+			{"lat": 66.520, "lng": -135.992},
+			{"lat": 66.424, "lng": -135.805},
+			{"lat": 66.331, "lng": -136.200},
+			{"lat": 66.424, "lng": -136.387}
+			]
+	},
+	{
+		"id": 7002,
+		"type": "Restaurants",
+		"title": "Cluckin Bell",
+		"notes": "Cluckin Bell, owned by Slav Petrov is on San Andreas Boulevard and is a great place to get good chicken.",
+		"order": 1,
+		"strokecolor": "E759E1",
+		"fillcolor": "E759E1",
+		"latlngarray": [
+			{"lat": 67.265, "lng": -129.776},
+			{"lat": 67.278, "lng": -129.424},
+			{"lat": 67.022, "lng": -129.413},
+			{"lat": 67.035, "lng": -129.578},
+			{"lat": 67.125, "lng": -129.754}
+			]
+	},
+	{
+		"id": 7003,
+		"type": "Restaurants",
+		"title": "Cafe Redemption",
+		"notes": "Cafe Redemption, owned by Chris Henderson and Yago Long is a great place to stock up on energy drinks and other popular supplements.",
+		"order": 1,
+		"strokecolor": "E759E1",
+		"fillcolor": "E759E1",
+		"latlngarray": [
+			{"lat": 68.657, "lng": -130.831},
+			{"lat": 68.693, "lng": -130.611},
+			{"lat": 68.617, "lng": -130.501},
+			{"lat": 68.589, "lng": -130.677}
+			]
 	}
 ]
+
