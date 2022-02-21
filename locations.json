@@ -357,7 +357,7 @@
 	{
 		"id": 4005,
 		"type": "Heists",
-		"title": "Fleeca Bank - test",
+		"title": "Fleeca Bank - Grand Senora Desert",
 		"notes": "The Fleeca Bank heist is a robbable banking and credit card company featured across Los Santos.",
 		"order": 1,
 		"strokecolor": "FFD700",
@@ -372,7 +372,7 @@
 	{
 		"id": 4006,
 		"type": "Heists",
-		"title": "Fleeca Bank - test2",
+		"title": "Fleeca Bank - Great Ocean Highway",
 		"notes": "The Fleeca Bank heist is a robbable banking and credit card company featured across Los Santos.",
 		"order": 1,
 		"strokecolor": "FFD700",
@@ -393,16 +393,16 @@
 		"strokecolor": "FFD700",
 		"fillcolor": "FFD700",
 		"latlngarray": [
-			{"lat": 68.726, "lng": -121.670},
-			{"lat": 68.690, "lng": -121.396},
-			{"lat": 68.590, "lng": -121.802},
-			{"lat": 68.562, "lng": -121.549}
+			{"lat": 68.749, "lng": -121.624},
+			{"lat": 68.713, "lng": -121.361},
+			{"lat": 68.569, "lng": -121.514},
+			{"lat": 68.617, "lng": -121.811}
 			]
 	},
 	{
 		"id": 4008,
 		"type": "Heists",
-		"title": "Fleeca Bank - Legion Square ",
+		"title": "Fleeca Bank - Legion Square",
 		"notes": "The Fleeca Bank heist is a robbable banking and credit card company featured across Los Santos.",
 		"order": 1,
 		"strokecolor": "FFD700",
@@ -416,6 +416,36 @@
 	},
 	{
 		"id": 4009,
+		"type": "Heists",
+		"title": "Fleeca Bank - Hawick Avenue",
+		"notes": "The Fleeca Bank heist is a robbable banking and credit card company featured across Los Santos.",
+		"order": 1,
+		"strokecolor": "FFD700",
+		"fillcolor": "FFD700",
+		"latlngarray": [
+			{"lat": 69.566, "lng": -128.293},
+			{"lat": 69.458, "lng": -127.304},
+			{"lat": 69.338, "lng": -127.425},
+			{"lat": 69.458, "lng": -128.414}
+			]
+	},
+	{
+		"id": 4010,
+		"type": "Heists",
+		"title": "Fleeca Bank - Life Invader",
+		"notes": "The Fleeca Bank heist is a robbable banking and credit card company featured across Los Santos.",
+		"order": 1,
+		"strokecolor": "FFD700",
+		"fillcolor": "FFD700",
+		"latlngarray": [
+			{"lat": 68.451, "lng": -137.075},
+			{"lat": 68.596, "lng": -136.328},
+			{"lat": 68.512, "lng": -136.229},
+			{"lat": 68.370, "lng": -136.954}
+			]
+	},
+	{
+		"id": 4011,
 		"type": "Heists",
 		"title": "Bobcat",
 		"notes": "The Bobcat security vault is a popular heist as you can very heavy classified weapons.",
