@@ -26,3 +26,5 @@ To [gta5-map](https://github.com/gta5-map) for [their work](https://github.com/g
 5001-6000 are Legal
 6001-7000 are Medical
 7001-8000 are Restaurants
+8001-9000 are Businesses
+9001-10000 are Garages
