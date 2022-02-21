@@ -495,6 +495,27 @@
 	{
 		"id": 5005,
 		"type": "Legal",
+		"title": "SAPD",
+		"notes": "San Andreas Police Department.",
+		"order": 1,
+		"strokecolor": "030397",
+		"fillcolor": "0000FF",
+		"latlngarray": [
+			{"lat": 66.605, "lng": -135.781},
+			{"lat": 66.839, "lng": -135.099},
+			{"lat": 66.796, "lng": -134.957},
+			{"lat": 66.758, "lng": -134.739},
+			{"lat": 66.719, "lng": -134.454},
+			{"lat": 66.615, "lng": -134.618},
+			{"lat": 66.497, "lng": -135.003},
+			{"lat": 66.409, "lng": -135.365},
+			{"lat": 66.453, "lng": -135.464},
+			{"lat": 66.457, "lng": -135.519}
+			]
+	},
+	{
+		"id": 5006,
+		"type": "Legal",
 		"title": "C&C Attorneys Office",
 		"notes": "C&C, founded by Tony Casino and Connor O'Brin are the only legal representatives in the city.",
 		"order": 1,
@@ -508,7 +529,7 @@
 			]
 	},
 	{
-		"id": 5006,
+		"id": 5007,
 		"type": "Legal",
 		"title": "The Courthouse",
 		"notes": "The Courthouse is ran by the Government where you can get your ID and check your record, it also hosts courtcases such as the famed Frankie vs PD.",
@@ -523,7 +544,7 @@
 			]
 	},
 	{
-		"id": 5007,
+		"id": 5008,
 		"type": "Legal",
 		"title": "Impound Lot",
 		"notes": "Where cars go when they get impounded.",
