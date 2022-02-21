@@ -194,5 +194,51 @@
 			{"lat": 65.937, "lng": -119.813},
 			{"lat": 66.151, "lng": -119.813}
 		]
+	},
+	{
+		"id": 5002,
+		"type": "Legal",
+		"title": "State Trooper PD",
+		"notes": "The State Trooper Police Department.",
+		"order": 1,
+		"strokecolor": "030397",
+		"fillcolor": "0000FF",
+		"latlngarray": [
+			{"lat": 64.889, "lng": -116.663},
+			{"lat": 64.889, "lng": -116.278},
+			{"lat": 64.833, "lng": -116.201},
+			{"lat": 64.706, "lng": -116.212},
+			{"lat": 64.711, "lng": -116.630}
+			]
+	},
+	{
+		"id": 5003,
+		"type": "Legal",
+		"title": "PBSO",
+		"notes": "Paleto Bay Sheriff's Office headquarters.",
+		"order": 1,
+		"strokecolor": "030397",
+		"fillcolor": "0000FF",
+		"latlngarray": [
+			{"lat": 82.638, "lng": -128.805},
+			{"lat": 82.600, "lng": -129.124},
+			{"lat": 82.555, "lng": -128.794},
+			{"lat": 82.582, "lng": -128.673}
+		]
+	},
+	{
+		"id": 5004,
+		"type": "Legal",
+		"title": "SDSO",
+		"notes": "Senora Desert Sheriff's Office headquarters home of BCSO ran by Sheriff Riley Richardson.",
+		"order": 1,
+		"strokecolor": "030397",
+		"fillcolor": "0000FF",
+		"latlngarray": [
+			{"lat": 78.972, "lng": -106.92},
+			{"lat": 79.035, "lng": -106.305},
+			{"lat": 79.108, "lng": -106.547},
+			{"lat": 79.043, "lng": -107.151}
+		]
 	}
 ]
