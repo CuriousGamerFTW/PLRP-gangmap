@@ -183,6 +183,37 @@
 			{"lat": 63.092, "lng": -119.415}
 			]
 	},
+	{
+		"id": 1999,
+		"type": "Territories",
+		"title": "Credits",
+		"notes": "Thank you Stassy Vibes for helping me with the majority of the map and the PLRP Staff team with polishing the final parts.",
+		"order": 1,
+		"strokecolor": "000000",
+		"fillcolor": "FF0000",
+		"latlngarray": [
+			{"lat": 63.904, "lng": -142.831},
+			{"lat": 63.991, "lng": -142.644},
+			{"lat": 64.121, "lng": -142.380},
+			{"lat": 64.088, "lng": -142.084},
+			{"lat": 64.001, "lng": -141.897},
+			{"lat": 63.885, "lng": -141.787},
+			{"lat": 63.681, "lng": -141.853},
+			{"lat": 63.564, "lng": -141.963},
+			{"lat": 63.358, "lng": -142.183},
+			{"lat": 63.249, "lng": -142.446},
+			{"lat": 63.091, "lng": -142.809},
+			{"lat": 63.220, "lng": -143.149},
+			{"lat": 63.373, "lng": -143.435},
+			{"lat": 63.584, "lng": -143.798},
+			{"lat": 63.764, "lng": -144.039},
+			{"lat": 63.996, "lng": -144.039},
+			{"lat": 64.116, "lng": -143.743},
+			{"lat": 64.121, "lng": -143.512},
+			{"lat": 64.011, "lng": -143.193},
+			{"lat": 63.938, "lng": -142.985}
+			]
+	},
 	{	
 		"id": 2001,
 		"type": "Neutral",
@@ -231,6 +262,37 @@
 			{"lat": 69.911, "lng": -129.360},
 			{"lat": 69.865, "lng": -128.547},
 			{"lat": 69.725, "lng": -128.558}
+			]
+	},
+	{
+		"id": 2999,
+		"type": "Neutral",
+		"title": "Credits",
+		"notes": "Thank you Stassy Vibes for helping me with the majority of the map and the PLRP Staff team with polishing the final parts.",
+		"order": 1,
+		"strokecolor": "000000",
+		"fillcolor": "FF0000",
+		"latlngarray": [
+			{"lat": 63.904, "lng": -142.831},
+			{"lat": 63.991, "lng": -142.644},
+			{"lat": 64.121, "lng": -142.380},
+			{"lat": 64.088, "lng": -142.084},
+			{"lat": 64.001, "lng": -141.897},
+			{"lat": 63.885, "lng": -141.787},
+			{"lat": 63.681, "lng": -141.853},
+			{"lat": 63.564, "lng": -141.963},
+			{"lat": 63.358, "lng": -142.183},
+			{"lat": 63.249, "lng": -142.446},
+			{"lat": 63.091, "lng": -142.809},
+			{"lat": 63.220, "lng": -143.149},
+			{"lat": 63.373, "lng": -143.435},
+			{"lat": 63.584, "lng": -143.798},
+			{"lat": 63.764, "lng": -144.039},
+			{"lat": 63.996, "lng": -144.039},
+			{"lat": 64.116, "lng": -143.743},
+			{"lat": 64.121, "lng": -143.512},
+			{"lat": 64.011, "lng": -143.193},
+			{"lat": 63.938, "lng": -142.985}
 			]
 	},	
 	{
@@ -361,6 +423,37 @@
 			{"lat": 59.944, "lng": -127.301},
 			{"lat": 59.955, "lng": -124.950},
 			{"lat": 59.478, "lng": -123.587}
+			]
+	},
+	{
+		"id": 3999,
+		"type": "Automotive",
+		"title": "Credits",
+		"notes": "Thank you Stassy Vibes for helping me with the majority of the map and the PLRP Staff team with polishing the final parts.",
+		"order": 1,
+		"strokecolor": "000000",
+		"fillcolor": "FF0000",
+		"latlngarray": [
+			{"lat": 63.904, "lng": -142.831},
+			{"lat": 63.991, "lng": -142.644},
+			{"lat": 64.121, "lng": -142.380},
+			{"lat": 64.088, "lng": -142.084},
+			{"lat": 64.001, "lng": -141.897},
+			{"lat": 63.885, "lng": -141.787},
+			{"lat": 63.681, "lng": -141.853},
+			{"lat": 63.564, "lng": -141.963},
+			{"lat": 63.358, "lng": -142.183},
+			{"lat": 63.249, "lng": -142.446},
+			{"lat": 63.091, "lng": -142.809},
+			{"lat": 63.220, "lng": -143.149},
+			{"lat": 63.373, "lng": -143.435},
+			{"lat": 63.584, "lng": -143.798},
+			{"lat": 63.764, "lng": -144.039},
+			{"lat": 63.996, "lng": -144.039},
+			{"lat": 64.116, "lng": -143.743},
+			{"lat": 64.121, "lng": -143.512},
+			{"lat": 64.011, "lng": -143.193},
+			{"lat": 63.938, "lng": -142.985}
 			]
 	},	
 	{
@@ -518,6 +611,37 @@
 			]
 	},
 	{
+		"id": 4999,
+		"type": "Heists",
+		"title": "Credits",
+		"notes": "Thank you Stassy Vibes for helping me with the majority of the map and the PLRP Staff team with polishing the final parts.",
+		"order": 1,
+		"strokecolor": "000000",
+		"fillcolor": "FF0000",
+		"latlngarray": [
+			{"lat": 63.904, "lng": -142.831},
+			{"lat": 63.991, "lng": -142.644},
+			{"lat": 64.121, "lng": -142.380},
+			{"lat": 64.088, "lng": -142.084},
+			{"lat": 64.001, "lng": -141.897},
+			{"lat": 63.885, "lng": -141.787},
+			{"lat": 63.681, "lng": -141.853},
+			{"lat": 63.564, "lng": -141.963},
+			{"lat": 63.358, "lng": -142.183},
+			{"lat": 63.249, "lng": -142.446},
+			{"lat": 63.091, "lng": -142.809},
+			{"lat": 63.220, "lng": -143.149},
+			{"lat": 63.373, "lng": -143.435},
+			{"lat": 63.584, "lng": -143.798},
+			{"lat": 63.764, "lng": -144.039},
+			{"lat": 63.996, "lng": -144.039},
+			{"lat": 64.116, "lng": -143.743},
+			{"lat": 64.121, "lng": -143.512},
+			{"lat": 64.011, "lng": -143.193},
+			{"lat": 63.938, "lng": -142.985}
+			]
+	},
+	{
 		"id": 5001,
 		"type": "Legal",
 		"title": "Mission Row PD",
@@ -645,6 +769,37 @@
 			]
 	},
 	{
+		"id": 5999,
+		"type": "Legal",
+		"title": "Credits",
+		"notes": "Thank you Stassy Vibes for helping me with the majority of the map and the PLRP Staff team with polishing the final parts.",
+		"order": 1,
+		"strokecolor": "000000",
+		"fillcolor": "FF0000",
+		"latlngarray": [
+			{"lat": 63.904, "lng": -142.831},
+			{"lat": 63.991, "lng": -142.644},
+			{"lat": 64.121, "lng": -142.380},
+			{"lat": 64.088, "lng": -142.084},
+			{"lat": 64.001, "lng": -141.897},
+			{"lat": 63.885, "lng": -141.787},
+			{"lat": 63.681, "lng": -141.853},
+			{"lat": 63.564, "lng": -141.963},
+			{"lat": 63.358, "lng": -142.183},
+			{"lat": 63.249, "lng": -142.446},
+			{"lat": 63.091, "lng": -142.809},
+			{"lat": 63.220, "lng": -143.149},
+			{"lat": 63.373, "lng": -143.435},
+			{"lat": 63.584, "lng": -143.798},
+			{"lat": 63.764, "lng": -144.039},
+			{"lat": 63.996, "lng": -144.039},
+			{"lat": 64.116, "lng": -143.743},
+			{"lat": 64.121, "lng": -143.512},
+			{"lat": 64.011, "lng": -143.193},
+			{"lat": 63.938, "lng": -142.985}
+			]
+	},
+	{
 		"id": 6001,
 		"type": "Medical",
 		"title": "Pillbox Medical Center",
@@ -658,6 +813,37 @@
 			{"lat": 67.367, "lng": -121.14},
 			{"lat": 67.695, "lng": -120.679}
 		]
+	},
+	{
+		"id": 6999,
+		"type": "Medical",
+		"title": "Credits",
+		"notes": "Thank you Stassy Vibes for helping me with the majority of the map and the PLRP Staff team with polishing the final parts.",
+		"order": 1,
+		"strokecolor": "000000",
+		"fillcolor": "FF0000",
+		"latlngarray": [
+			{"lat": 63.904, "lng": -142.831},
+			{"lat": 63.991, "lng": -142.644},
+			{"lat": 64.121, "lng": -142.380},
+			{"lat": 64.088, "lng": -142.084},
+			{"lat": 64.001, "lng": -141.897},
+			{"lat": 63.885, "lng": -141.787},
+			{"lat": 63.681, "lng": -141.853},
+			{"lat": 63.564, "lng": -141.963},
+			{"lat": 63.358, "lng": -142.183},
+			{"lat": 63.249, "lng": -142.446},
+			{"lat": 63.091, "lng": -142.809},
+			{"lat": 63.220, "lng": -143.149},
+			{"lat": 63.373, "lng": -143.435},
+			{"lat": 63.584, "lng": -143.798},
+			{"lat": 63.764, "lng": -144.039},
+			{"lat": 63.996, "lng": -144.039},
+			{"lat": 64.116, "lng": -143.743},
+			{"lat": 64.121, "lng": -143.512},
+			{"lat": 64.011, "lng": -143.193},
+			{"lat": 63.938, "lng": -142.985}
+			]
 	},
 	{
 		"id": 7001,
@@ -703,6 +889,37 @@
 			{"lat": 68.693, "lng": -130.611},
 			{"lat": 68.617, "lng": -130.501},
 			{"lat": 68.589, "lng": -130.677}
+			]
+	},
+	{
+		"id": 7999,
+		"type": "Restaurants",
+		"title": "Credits",
+		"notes": "Thank you Stassy Vibes for helping me with the majority of the map and the PLRP Staff team with polishing the final parts.",
+		"order": 1,
+		"strokecolor": "000000",
+		"fillcolor": "FF0000",
+		"latlngarray": [
+			{"lat": 63.904, "lng": -142.831},
+			{"lat": 63.991, "lng": -142.644},
+			{"lat": 64.121, "lng": -142.380},
+			{"lat": 64.088, "lng": -142.084},
+			{"lat": 64.001, "lng": -141.897},
+			{"lat": 63.885, "lng": -141.787},
+			{"lat": 63.681, "lng": -141.853},
+			{"lat": 63.564, "lng": -141.963},
+			{"lat": 63.358, "lng": -142.183},
+			{"lat": 63.249, "lng": -142.446},
+			{"lat": 63.091, "lng": -142.809},
+			{"lat": 63.220, "lng": -143.149},
+			{"lat": 63.373, "lng": -143.435},
+			{"lat": 63.584, "lng": -143.798},
+			{"lat": 63.764, "lng": -144.039},
+			{"lat": 63.996, "lng": -144.039},
+			{"lat": 64.116, "lng": -143.743},
+			{"lat": 64.121, "lng": -143.512},
+			{"lat": 64.011, "lng": -143.193},
+			{"lat": 63.938, "lng": -142.985}
 			]
 	},
 	{
@@ -843,6 +1060,37 @@
 			{"lat": 66.097, "lng": -139.892},
 			{"lat": 66.012, "lng": -140.067},
 			{"lat": 66.070, "lng": -140.276}
+			]
+	},
+	{
+		"id": 8999,
+		"type": "Businesses",
+		"title": "Credits",
+		"notes": "Thank you Stassy Vibes for helping me with the majority of the map and the PLRP Staff team with polishing the final parts.",
+		"order": 1,
+		"strokecolor": "000000",
+		"fillcolor": "FF0000",
+		"latlngarray": [
+			{"lat": 63.904, "lng": -142.831},
+			{"lat": 63.991, "lng": -142.644},
+			{"lat": 64.121, "lng": -142.380},
+			{"lat": 64.088, "lng": -142.084},
+			{"lat": 64.001, "lng": -141.897},
+			{"lat": 63.885, "lng": -141.787},
+			{"lat": 63.681, "lng": -141.853},
+			{"lat": 63.564, "lng": -141.963},
+			{"lat": 63.358, "lng": -142.183},
+			{"lat": 63.249, "lng": -142.446},
+			{"lat": 63.091, "lng": -142.809},
+			{"lat": 63.220, "lng": -143.149},
+			{"lat": 63.373, "lng": -143.435},
+			{"lat": 63.584, "lng": -143.798},
+			{"lat": 63.764, "lng": -144.039},
+			{"lat": 63.996, "lng": -144.039},
+			{"lat": 64.116, "lng": -143.743},
+			{"lat": 64.121, "lng": -143.512},
+			{"lat": 64.011, "lng": -143.193},
+			{"lat": 63.938, "lng": -142.985}
 			]
 	},
 	{
@@ -1076,6 +1324,37 @@
 			{"lat": 67.047, "lng": -122.471},
 			{"lat": 66.973, "lng": -121.926},
 			{"lat": 66.688, "lng": -122.256}
+			]
+	},
+	{
+		"id": 9999,
+		"type": "Garages",
+		"title": "Credits",
+		"notes": "Thank you Stassy Vibes for helping me with the majority of the map and the PLRP Staff team with polishing the final parts.",
+		"order": 1,
+		"strokecolor": "000000",
+		"fillcolor": "FF0000",
+		"latlngarray": [
+			{"lat": 63.904, "lng": -142.831},
+			{"lat": 63.991, "lng": -142.644},
+			{"lat": 64.121, "lng": -142.380},
+			{"lat": 64.088, "lng": -142.084},
+			{"lat": 64.001, "lng": -141.897},
+			{"lat": 63.885, "lng": -141.787},
+			{"lat": 63.681, "lng": -141.853},
+			{"lat": 63.564, "lng": -141.963},
+			{"lat": 63.358, "lng": -142.183},
+			{"lat": 63.249, "lng": -142.446},
+			{"lat": 63.091, "lng": -142.809},
+			{"lat": 63.220, "lng": -143.149},
+			{"lat": 63.373, "lng": -143.435},
+			{"lat": 63.584, "lng": -143.798},
+			{"lat": 63.764, "lng": -144.039},
+			{"lat": 63.996, "lng": -144.039},
+			{"lat": 64.116, "lng": -143.743},
+			{"lat": 64.121, "lng": -143.512},
+			{"lat": 64.011, "lng": -143.193},
+			{"lat": 63.938, "lng": -142.985}
 			]
 	}
 ]
