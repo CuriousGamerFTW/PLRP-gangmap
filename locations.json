@@ -32,7 +32,7 @@
 		"title": "The Casino",
 		"notes": "The Casino is ran by the Government.",
 		"order": 1001,
-		"strokecolor": "#222222",
+		"strokecolor": "#0080FF",
 		"fillcolor": "#0080FF",
 		"latlngarray": [
 			{"lat": 69.523, "lng": -116.619},
@@ -44,5 +44,23 @@
 			{"lat": 69.881, "lng": -114.685},
 			{"lat": 70.017, "lng": -115.421},
 			{"lat": 69.775, "lng": -116.003}
+	},
+	{
+		"id": 1002,
+		"type": "Neutral Zones",
+		"title": "Alta Street Apartments",
+		"notes": "The Apartments is where new players wake up.",
+		"order": 1002,
+		"strokecolor": "#0080FF",
+		"fillcolor": "#0080FF",
+		"latlngarray": [
+			{"lat": 66.022, "lng": -126.945},
+			{"lat": 66.196, "lng": -128.209},
+			{"lat": 66.583, "lng": -128.198},
+			{"lat": 66.557, "lng": -127.638},
+			{"lat": 66.500, "lng": -127.200},
+			{"lat": 66.337, "lng": -127.319},
+			{"lat": 66.255, "lng": -126.740}
+		]
 	}
 ]
