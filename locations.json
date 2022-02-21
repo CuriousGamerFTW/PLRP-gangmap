@@ -202,7 +202,7 @@
 		"type": "Automotive",
 		"title": "Envy's",
 		"notes": "Envy's, owned by The Hogs.",
-		"order": 1,
+		"order": 2,
 		"strokecolor": "00CAD8",
 		"fillcolor": "00CAD8",
 		"latlngarray": [
@@ -237,7 +237,7 @@
 		"type": "Automotive",
 		"title": "The LostMC Garage",
 		"notes": "The LostMC Garage, owned by the LostMC.",
-		"order": 1,
+		"order": 2,
 		"strokecolor": "00CAD8",
 		"fillcolor": "00CAD8",
 		"latlngarray": [
@@ -268,7 +268,7 @@
 		"type": "Automotive",
 		"title": "The Tuner Shop",
 		"notes": "The Tuner Shop, owned by the Greys is an garage for tuner cars.",
-		"order": 1,
+		"order": 2,
 		"strokecolor": "00CAD8",
 		"fillcolor": "00CAD8",
 		"latlngarray": [
@@ -292,6 +292,132 @@
 			{"lat": 58.008, "lng": -122.814}
 			]
 	},	
+	{
+		"id": 4001,
+		"type": "Heists",
+		"title": "Yacht",
+		"notes": "The yacht is a huge boat constantly filled with goodies but the owner seems to always be at home when it gets robbed.",
+		"order": 1,
+		"strokecolor": "FFD700",
+		"fillcolor": "FFD700",
+		"latlngarray": [
+			{"lat": 66.094, "lng": -145.826},
+			{"lat": 66.129, "lng": -144.749},
+			{"lat": 65.667, "lng": -144.584},
+			{"lat": 65.640, "lng": -145.617}
+			]
+	},	
+	{
+		"id": 4002,
+		"type": "Heists",
+		"title": "Vangelico Jewelry Store",
+		"notes": "Retailer of high-end jewelry and blood diamonds. A common place for criminals to heist.",
+		"order": 1,
+		"strokecolor": "FFD700",
+		"fillcolor": "FFD700",
+		"latlngarray": [
+			{"lat": 69.026, "lng": -130.686},
+			{"lat": 68.685, "lng": -130.126},
+			{"lat": 68.633, "lng": -130.346},
+			{"lat": 68.892, "lng": -130.774},
+			{"lat": 68.935, "lng": -131.148}
+		]
+	},	
+	{
+		"id": 4003,
+		"type": "Heists",
+		"title": "The City Vault",
+		"notes": "The City Vault (Pacific Standard Public Deposit Bank) is the third stage and fourth progression of bank robberies.",
+		"order": 1,
+		"strokecolor": "FFD700",
+		"fillcolor": "FFD700",
+		"latlngarray": [
+			{"lat": 70.359, "lng": -122.446},
+			{"lat": 70.590, "lng": -122.194},
+			{"lat": 70.536, "lng": -121.666},
+			{"lat": 70.284, "lng": -121.916}
+		]
+	},
+	{
+		"id": 4004,
+		"type": "Heists",
+		"title": "Vangelico Jewelry Store",
+		"notes": "Retailer of high-end jewelry and blood diamonds. A common place for criminals to heist.",
+		"order": 1,
+		"strokecolor": "FFD700",
+		"fillcolor": "FFD700",
+		"latlngarray": [
+			{"lat": 69.026, "lng": -130.686},
+			{"lat": 68.685, "lng": -130.126},
+			{"lat": 68.633, "lng": -130.346},
+			{"lat": 68.892, "lng": -130.774},
+			{"lat": 68.935, "lng": -131.148}
+		]
+	},		
+	{
+		"id": 4005,
+		"type": "Heists",
+		"title": "Fleeca Bank - test",
+		"notes": "The Fleeca Bank heist is a robbable banking and credit card company featured across Los Santos.",
+		"order": 1,
+		"strokecolor": "FFD700",
+		"fillcolor": "FFD700",
+		"latlngarray": [
+			{"lat": 77.150, "lng": -113.401},
+			{"lat": 77.149, "lng": -112.754},
+			{"lat": 77.049, "lng": -112.743},
+			{"lat": 77.049, "lng": -113.395}
+		]
+	},
+	{
+		"id": 4006,
+		"type": "Heists",
+		"title": "Fleeca Bank - test2",
+		"notes": "The Fleeca Bank heist is a robbable banking and credit card company featured across Los Santos.",
+		"order": 2,
+		"strokecolor": "FFD700",
+		"fillcolor": "FFD700",
+		"latlngarray": [
+			{"lat": 71.020, "lng": -153.533},
+			{"lat": 71.013, "lng": -153.193},
+			{"lat": 70.887, "lng": -153.226},
+			{"lat": 70.898, "lng": -153.566}
+		]
+	},
+	{
+		"id": 4007,
+		"type": "Heists",
+		"title": "Fleeca Bank - Pink Cage",
+		"notes": "The Fleeca Bank heist is a robbable banking and credit card company featured across Los Santos.",
+		"order": 2,
+		"strokecolor": "FFD700",
+		"fillcolor": "FFD700",
+		"latlngarray": [
+			{"lat": 68.726, "lng": -121.670},
+			{"lat": 68.690, "lng": -121.396},
+			{"lat": 68.590, "lng": -121.802},
+			{"lat": 68.562, "lng": -121.549}
+			]
+	},
+	{
+		"id": 4008,
+		"type": "Heists",
+		"title": "Fleeca Bank - Legion Square ",
+		"notes": "The Fleeca Bank heist is a robbable banking and credit card company featured across Los Santos.",
+		"order": 2,
+		"strokecolor": "FFD700",
+		"fillcolor": "FFD700",
+		"latlngarray": [
+			{"lat": 65.851, "lng": -123.030},
+			{"lat": 65.752, "lng": -123.118},
+			{"lat": 65.806, "lng": -122.689},
+			{"lat": 65.693, "lng": -122.744}
+			]
+	},
+
+
+
+
 	{
 		"id": 5001,
 		"type": "Legal",
