@@ -3,9 +3,9 @@
 		"id": 1001,
 		"type": "Territories",
 		"title": "The Devils",
-		"notes": "The Devils are a gang founded in October 2021 by Josh Dowling and Jimmy Salvador.",
+		"notes": "The Devils, founded by Josh Dowling and Jimmy Salvador are a newer gang that was established in October 2021.",
 		"order": 1,
-		"strokecolor": "000000",
+		"strokecolor": "990000",
 		"fillcolor": "C3C3C3",
 		"latlngarray": [
 			{"lat": 63.791, "lng": -136.241},
@@ -21,9 +21,9 @@
 		"id": 1002,
 		"type": "Territories",
 		"title": "The Greys",
-		"notes": "They Greys are a gang that was founded by Wilson Powers and Dan J are considered the most deadly gang in Los Santos.",
+		"notes": "The Greys, founded by Wilson Powers and Dan J are considered the most deadly gang in Los Santos.",
 		"order": 1,
-		"strokecolor": "331D1D",
+		"strokecolor": "990000",
 		"fillcolor": "202020",
 		"latlngarray": [
 			{"lat": 58.459, "lng": -122.803},
@@ -44,6 +44,26 @@
 			{"lat": 57.757, "lng": -123.583},
 			{"lat": 58.002, "lng": -123.144},
 			{"lat": 58.008, "lng": -122.814}
+			]
+	},		
+	{
+		"id": 1003,
+		"type": "Territories",
+		"title": "The Hogs",
+		"notes": "The Hogs, founded by Nexus are one of the main mechanic gangs who own Envys which is the most popular repair shop in the city.",
+		"order": 1,
+		"strokecolor": "990000",
+		"fillcolor": "006600",
+		"latlngarray": [
+			{"lat": 66.348, "lng": -115.879},
+			{"lat": 66.060, "lng": -115.890},
+			{"lat": 65.961, "lng": -115.769},
+			{"lat": 65.718, "lng": -115.736},
+			{"lat": 65.718, "lng": -115.516},
+			{"lat": 65.791, "lng": -115.296},
+			{"lat": 65.979, "lng": -115.219},
+			{"lat": 66.211, "lng": -115.252},
+			{"lat": 66.343, "lng": -115.428}
 			]
 	},	
 	{	
