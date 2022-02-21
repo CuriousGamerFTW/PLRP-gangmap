@@ -713,5 +713,238 @@
 			{"lat": 68.353, "lng": -126.478},
 			{"lat": 68.345, "lng": -126.917}
 			]
+	},
+	{
+		"id": 9001,
+		"type": "Garages",
+		"title": "Rundown Hotel Garage - Opposite LostMC Compound",
+		"order": 1,
+		"strokecolor": "FFCCCC",
+		"fillcolor": "FF9999",
+		"latlngarray": [
+			{"lat": 69.001, "lng": -115.017},
+			{"lat": 68.966, "lng": -114.809},
+			{"lat": 68.867, "lng": -114.952},
+			{"lat": 68.847, "lng": -115.061},
+			{"lat": 68.875, "lng": -115.182}
+			]
+	},
+	{
+		"id": 9002,
+		"type": "Garages",
+		"title": "Richman Hotel - West Eclipse Boulevard",
+		"order": 1,
+		"strokecolor": "FFCCCC",
+		"fillcolor": "FF9999",
+		"latlngarray": [
+			{"lat": 70.398, "lng": -138.071},
+			{"lat": 70.504, "lng": -138.280},
+			{"lat": 70.625, "lng": -137.939},
+			{"lat": 70.709, "lng": -136.951},
+			{"lat": 70.578, "lng": -136.797}
+			]
+	},
+	{
+		"id": 9003,
+		"type": "Garages",
+		"title": "Pier Garage - At the Pier",
+		"order": 1,
+		"strokecolor": "FFCCCC",
+		"fillcolor": "FF9999",
+		"latlngarray": [
+			{"lat": 66.447, "lng": -139.802},
+			{"lat": 66.319, "lng": -140.011},
+			{"lat": 66.368, "lng": -140.307},
+			{"lat": 66.508, "lng": -140.055}
+			]
+	},
+	{
+		"id": 9004,
+		"type": "Garages",
+		"title": "24/7 Garage - Opposite Envy's",
+		"order": 1,
+		"strokecolor": "FFCCCC",
+		"fillcolor": "FF9999",
+		"latlngarray": [
+			{"lat": 65.957, "lng": -115.189},
+			{"lat": 65.962, "lng": -115.024},
+			{"lat": 65.903, "lng": -115.046},
+			{"lat": 65.845, "lng": -115.057},
+			{"lat": 65.836, "lng": -115.211}
+			]
+	},
+	{
+		"id": 9005,
+		"type": "Garages",
+		"title": "Alta Street Garage - Alta Street Parking Lot",
+		"order": 1,
+		"strokecolor": "FFCCCC",
+		"fillcolor": "FF9999",
+		"latlngarray": [
+			{"lat": 66.064, "lng": -127.683},
+			{"lat": 66.140, "lng": -128.101},
+			{"lat": 66.550, "lng": -128.145},
+			{"lat": 66.471, "lng": -127.255},
+			{"lat": 66.322, "lng": -127.365},
+			{"lat": 66.330, "lng": -127.475},
+			{"lat": 66.149, "lng": -127.683}
+			]
+	},
+	{
+		"id": 9006,
+		"type": "Garages",
+		"title": "Harmoney - You guessed it, in harmoney",
+		"order": 1,
+		"strokecolor": "FFCCCC",
+		"fillcolor": "FF9999",
+		"latlngarray": [
+			{"lat": 77.115, "lng": -112.779},
+			{"lat": 77.112, "lng": -112.383},
+			{"lat": 77.034, "lng": -112.339},
+			{"lat": 77.044, "lng": -112.713}
+			]
+	},
+	{
+		"id": 9007,
+		"type": "Garages",
+		"title": "Dock Garage - Buckaneer way",
+		"order": 1,
+		"strokecolor": "FFCCCC",
+		"fillcolor": "FF9999",
+		"latlngarray": [
+			{"lat": 55.877, "lng": -116.791},
+			{"lat": 55.561, "lng": -116.824},
+			{"lat": 55.555, "lng": -116.044},
+			{"lat": 55.877, "lng": -116.044}
+			]
+	},
+	{
+		"id": 9008,
+		"type": "Garages",
+		"title": "Garage A - Meteor Street",
+		"order": 1,
+		"strokecolor": "FFCCCC",
+		"fillcolor": "FF9999",
+		"latlngarray": [
+			{"lat": 69.424, "lng": -120.123},
+			{"lat": 69.612, "lng": -119.838},
+			{"lat": 69.547, "lng": -119.475},
+			{"lat": 69.374, "lng": -119.684}
+			]
+	},
+	{
+		"id": 9009,
+		"type": "Garages",
+		"title": "Garage B - Adam's Apple Boulevard",
+		"order": 1,
+		"strokecolor": "FFCCCC",
+		"fillcolor": "FF9999",
+		"latlngarray": [
+			{"lat": 65.381, "lng": -127.013},
+			{"lat": 65.390, "lng": -126.750},
+			{"lat": 65.294, "lng": -126.750},
+			{"lat": 65.294, "lng": -127.057}
+			]
+	}
+	{
+		"id": 9010,
+		"type": "Garages",
+		"title": "Garage C - Great Ocean Highway",
+		"order": 1,
+		"strokecolor": "FFCCCC",
+		"fillcolor": "FF9999",
+		"latlngarray": [
+			{"lat": 83.110, "lng": -123.760},
+			{"lat": 83.083, "lng": -123.584},
+			{"lat": 83.145, "lng": -123.068},
+			{"lat": 83.170, "lng": -123.310}
+			]
+	},
+	{
+		"id": 9011,
+		"type": "Garages",
+		"title": "Garage D - Exceptionalists Way",
+		"order": 1,
+		"strokecolor": "FFCCCC",
+		"fillcolor": "FF9999",
+		"latlngarray": [
+			{"lat": 60.884, "lng": -130.938},
+			{"lat": 60.718, "lng": -131.191},
+			{"lat": 60.502, "lng": -130.663},
+			{"lat": 60.670, "lng": -130.279}
+			]
+	},
+	{
+		"id": 9012,
+		"type": "Garages",
+		"title": "Garage E - Clinton Avenue",
+		"order": 1,
+		"strokecolor": "FFCCCC",
+		"fillcolor": "FF9999",
+		"latlngarray": [
+			{"lat": 70.655, "lng": -121.084},
+			{"lat": 70.622, "lng": -120.721},
+			{"lat": 70.553, "lng": -120.798},
+			{"lat": 70.520, "lng": -120.809},
+			{"lat": 70.553, "lng": -121.161}
+			]
+	},
+	{
+		"id": 9013,
+		"type": "Garages",
+		"title": "Garage F - Eclipse Boulevard",
+		"order": 1,
+		"strokecolor": "FFCCCC",
+		"fillcolor": "FF9999",
+		"latlngarray": [
+			{"lat": 70.658, "lng": -128.442},
+			{"lat": 70.665, "lng": -128.014},
+			{"lat": 70.690, "lng": -127.750},
+			{"lat": 70.563, "lng": -127.761},
+			{"lat": 70.526, "lng": -128.025},
+			{"lat": 70.519, "lng": -128.442}
+			]
+	},
+	{
+		"id": 9014,
+		"type": "Garages",
+		"title": "Garage H - Spanish Avenue",
+		"order": 1,
+		"strokecolor": "FFCCCC",
+		"fillcolor": "FF9999",
+		"latlngarray": [
+			{"lat": 69.718, "lng": -124.153},
+			{"lat": 69.791, "lng": -124.087},
+			{"lat": 69.764, "lng": -123.787},
+			{"lat": 69.688, "lng": -123.919}
+			]
+	},
+	{
+		"id": 9015,
+		"type": "Garages",
+		"title": "Garage X - Lagoona Place",
+		"order": 1,
+		"strokecolor": "FFCCCC",
+		"fillcolor": "FF9999",
+		"latlngarray": [
+			{"lat": 69.862, "lng": -125.765},
+			{"lat": 69.767, "lng": -125.798},
+			{"lat": 69.756, "lng": -125.655},
+			{"lat": 69.828, "lng": -125.600}
+			]
+	},
+	{
+		"id": 9016,
+		"type": "Garages",
+		"title": "Garage T - Legion Square",
+		"order": 1,
+		"strokecolor": "FFCCCC",
+		"fillcolor": "FF9999",
+		"latlngarray": [
+			{"lat": 66.749, "lng": -122.669},
+			{"lat": 67.047, "lng": -122.471},
+			{"lat": 66.973, "lng": -121.926},
+			{"lat": 66.688, "lng": -122.256}
+			]
 	}
 ]
