@@ -49,11 +49,26 @@
 	{
 		"id": 1003,
 		"type": "Territories",
+		"title": "The Greys - Brouge Avenue",
+		"notes": "The Greys members houses.",
+		"order": 1,
+		"strokecolor": "990000",
+		"fillcolor": "FF3333",
+		"latlngarray": [
+			{"lat": 63.378, "lng": -122.094},
+			{"lat": 62.438, "lng": -123.961},
+			{"lat": 62.259, "lng": -123.555},
+			{"lat": 63.215, "lng": -121.632}
+			]
+	},
+	{
+		"id": 1004,
+		"type": "Territories",
 		"title": "The Hogs",
 		"notes": "The Hogs, founded by Nexus are one of the main mechanic gangs who own Envys which is the most popular repair shop in the city.",
 		"order": 1,
 		"strokecolor": "990000",
-		"fillcolor": "006600",
+		"fillcolor": "FF3333",
 		"latlngarray": [
 			{"lat": 66.348, "lng": -115.879},
 			{"lat": 66.060, "lng": -115.890},
@@ -67,7 +82,7 @@
 			]
 	},	
 	{
-		"id": 1004,
+		"id": 1005,
 		"type": "Territories",
 		"title": "The LostMC Compound - Mirror Park Boulevard",
 		"notes": "The LostMC, founded by Tom Gomez is a biker gang that own a garage in city next to the Casino.",
@@ -82,7 +97,7 @@
 			]
 	},	
 	{
-		"id": 1005,
+		"id": 1006,
 		"type": "Territories",
 		"title": "The LostMC clubhouse - Stab City",
 		"notes": "The LostMC clubhouse up North in Stab City is their second territory that hosts their clubhouse.",
@@ -100,7 +115,7 @@
 			]
 	},	
 	{
-		"id": 1006,
+		"id": 1007,
 		"type": "Territories",
 		"title": "The Russians - Art Gallery",
 		"notes": "The Russians, founded by Slav Petrov is a Russian based gang.",
@@ -115,7 +130,7 @@
 			]
 	},	
 	{
-		"id": 1007,
+		"id": 1008,
 		"type": "Territories",
 		"title": "The Russians - Lake Vinewood Drive",
 		"notes": "The Russians ganghouse.",
@@ -129,6 +144,7 @@
 			{"lat": 71.392, "lng": -123.860}
 			]
 	},
+
 	{	
 		"id": 2001,
 		"type": "Neutral",
