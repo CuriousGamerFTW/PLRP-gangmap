@@ -184,6 +184,18 @@ $(function() {
 			icon: 'radar/radar_bar.png',
 			type: 'General',
 			enabled: true
+		},
+		{
+			name: 'Businesses',
+			icon: 'radar/radar_office_for_sale.png',
+			type: 'General',
+			enabled: true
+		},
+		{
+			name: 'Garages',
+			icon: 'radar/radar_garage.png',
+			type: 'General',
+			enabled: true
 		}
 	]);
 	var showingLabels;
