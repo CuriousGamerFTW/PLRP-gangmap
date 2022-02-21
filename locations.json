@@ -183,8 +183,8 @@
 	{
 		"id": 3001,
 		"type": "Automotive",
-		"title": "Tuner Shop",
-		"notes": "The Tuner shop, owned by The Greys.",
+		"title": "LS Customs",
+		"notes": "LS Customs, owned by Max Short.",
 		"order": 1,
 		"strokecolor": "00CAD8",
 		"fillcolor": "00CAD8",
@@ -263,6 +263,35 @@
 			{"lat": 69.050, "lng": -119.546}
 			]
 	},
+	{
+		"id": 3006,
+		"type": "Automotive",
+		"title": "The Tuner Shop",
+		"notes": "The Tuner Shop, owned by the Greys is an garage for tuner cars.",
+		"order": 1,
+		"strokecolor": "00CAD8",
+		"fillcolor": "00CAD8",
+		"latlngarray": [
+			{"lat": 58.459, "lng": -122.803},
+			{"lat": 58.442, "lng": -122.254},
+			{"lat": 58.448, "lng": -122.001},
+			{"lat": 58.431, "lng": -121.682},
+			{"lat": 58.384, "lng": -120.891},
+			{"lat": 57.839, "lng": -120.836},
+			{"lat": 57.710, "lng": -120.957},
+			{"lat": 57.634, "lng": -121.155},
+			{"lat": 57.569, "lng": -121.441},
+			{"lat": 57.023, "lng": -121.485},
+			{"lat": 56.981, "lng": -121.572},
+			{"lat": 55.329, "lng": -121.572},
+			{"lat": 55.317, "lng": -121.704},
+			{"lat": 54.902, "lng": -121.682},
+			{"lat": 54.915, "lng": -123.594},
+			{"lat": 57.757, "lng": -123.583},
+			{"lat": 58.002, "lng": -123.144},
+			{"lat": 58.008, "lng": -122.814}
+			]
+	},	
 	{
 		"id": 5001,
 		"type": "Legal",
