@@ -136,7 +136,7 @@
 		"notes": "Totally not a gang.",
 		"order": 1,
 		"strokecolor": "990000",
-		"fillcolor": "FF3333",
+		"fillcolor": "0080FF",
 		"latlngarray": [
 			{"lat": 69.958, "lng": -131.726},
 			{"lat": 69.980, "lng": -131.551},
@@ -155,7 +155,7 @@
 		"notes": "The Vagos are a South side gang founded by Bubba and Santana.",
 		"order": 1,
 		"strokecolor": "990000",
-		"fillcolor": "FF3333",
+		"fillcolor": "CCCC00",
 		"latlngarray": [
 			{"lat": 63.152, "lng": -119.571},
 			{"lat": 63.077, "lng": -119.681},
