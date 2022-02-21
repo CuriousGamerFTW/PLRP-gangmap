@@ -31,7 +31,7 @@
 		"type": "Neutral",
 		"title": "The Casino",
 		"notes": "The Casino is ran by the Government.",
-		"order": 1001,
+		"order": 1,
 		"strokecolor": "#0080FF",
 		"fillcolor": "#0080FF",
 		"latlngarray": [
@@ -50,7 +50,7 @@
 		"type": "Neutral Zones",
 		"title": "Alta Street Apartments",
 		"notes": "The Apartments is where new players wake up.",
-		"order": 1002,
+		"order": 1,
 		"strokecolor": "#0080FF",
 		"fillcolor": "#0080FF",
 		"latlngarray": [
@@ -62,5 +62,43 @@
 			{"lat": 66.337, "lng": -127.319},
 			{"lat": 66.255, "lng": -126.740}
 		]
-	}
+	},
+	
+	
+	
+		{
+		"id": 4001,
+		"type": "Legal",
+		"title": "Mission Row PD",
+		"notes": "The Los Santos Police Department, along with the Paleto Bay Sheriff's Office, the Senora Desert Sheriff's Office, the San Andreas State Police and the San Andreas State Park Rangers, makes up the executive branch of Los Santos; together they ensure that the law is upheld and enforced.",
+		"order": 1,
+		"strokecolor": "#FF0000",
+		"fillcolor": #0000FF",
+		"latlngarray": [
+			{"lat": 66.151, "lng": -120.516},
+			{"lat": 65.906, "lng": -120.516},
+			{"lat": 65.937, "lng": -119.813},
+			{"lat": 66.151, "lng": -119.813}
+		]
+	},
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
 ]
