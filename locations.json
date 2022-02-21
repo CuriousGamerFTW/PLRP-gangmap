@@ -221,7 +221,7 @@
 		"id": 3003,
 		"type": "Automotive",
 		"title": "Hayes",
-		"notes": "Hayes, owned by Neilis Cummings.",
+		"notes": "Hayes, owned by Neilis Cummings, Joker Butzy and Jack McTavish.",
 		"order": 1,
 		"strokecolor": "00CAD8",
 		"fillcolor": "00CAD8",
@@ -230,6 +230,37 @@
 			{"lat": 68.029, "lng": -138.428},
 			{"lat": 68.144, "lng": -137.956},
 			{"lat": 68.209, "lng": -138.077}
+			]
+	},
+	{
+		"id": 3004,
+		"type": "Automotive",
+		"title": "The LostMC Garage",
+		"notes": "The LostMC Garage, owned by the LostMC.",
+		"order": 1,
+		"strokecolor": "00CAD8",
+		"fillcolor": "00CAD8",
+		"latlngarray": [
+			{"lat": 69.241, "lng": -115.502},
+			{"lat": 69.396, "lng": -115.063},
+			{"lat": 69.171, "lng": -114.415},
+			{"lat": 69.061, "lng": -114.667}
+			]
+	},	
+	{
+		"id": 3005,
+		"type": "Automotive",
+		"title": "Auto Exotics",
+		"notes": "Auto Exotics, owned by Bubba Watson and Santana Delnesia.",
+		"order": 1,
+		"strokecolor": "00CAD8",
+		"fillcolor": "00CAD8",
+		"latlngarray": [
+			{"lat": 69.187, "lng": -119.557},
+			{"lat": 69.199, "lng": -119.161},
+			{"lat": 68.932, "lng": -119.095},
+			{"lat": 68.932, "lng": -119.436},
+			{"lat": 69.050, "lng": -119.546}
 			]
 	},
 	{
