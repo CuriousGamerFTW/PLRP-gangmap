@@ -483,23 +483,6 @@
 			]
 	},
 	{
-		"id": 4011,
-		"type": "Heists",
-		"title": "Bobcat",
-		"notes": "The Bobcat security vault is a popular heist as you can very heavy classified weapons.",
-		"order": 1,
-		"strokecolor": "FFD700",
-		"fillcolor": "FFD700",
-		"latlngarray": [
-			{"lat": 60.547, "lng": -116.187},
-			{"lat": 60.552, "lng": -115.769},
-			{"lat": 60.204, "lng": -115.824},
-			{"lat": 60.335, "lng": -116.231},
-			{"lat": 60.335, "lng": -116.143},
-			{"lat": 60.226, "lng": -116.165}
-			]
-	},
-	{
 		"id": 5001,
 		"type": "Legal",
 		"title": "Mission Row PD",
@@ -639,21 +622,6 @@
 			{"lat": 67.485, "lng": -122.000},
 			{"lat": 67.367, "lng": -121.14},
 			{"lat": 67.695, "lng": -120.679}
-		]
-	},
-	{
-		"id": 6002,
-		"type": "Medical",
-		"title": "Grandma's",
-		"notes": "Where you go to revive without having to go to Pillbox.",
-		"order": 1,
-		"strokecolor": "FF005A",
-		"fillcolor": "FF005A",
-		"latlngarray": [
-			{"lat": 81.177, "lng": -101.018},
-			{"lat": 81.229, "lng": -100.743},
-			{"lat": 81.192, "lng": -100.457},
-			{"lat": 81.144, "lng": -100.776}
 		]
 	},
 	{
