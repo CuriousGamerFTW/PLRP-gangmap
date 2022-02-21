@@ -397,5 +397,35 @@
 			{"lat": 69.559, "lng": -119.276},
 			{"lat": 69.463, "lng": -118.991}
 			]
+	},
+	{
+		"id": 6001,
+		"type": "Medical",
+		"title": "Pillbox Medical Center",
+		"notes": "Pillbox Medical Center is the main hospital in Los Santos. Pillbox is the center of higher medicine in the city of Los Santos. It is home to the Emergency Medical Services, however EMS is not owned or funded by the hospital. They work with the rest of the governmental agencies across the city and routinely give them necessary higher medical services.",
+		"order": 1,
+		"strokecolor": "FF005A",
+		"fillcolor": "FF005A",
+		"latlngarray": [
+			{"lat": 67.728, "lng": -121.734},
+			{"lat": 67.485, "lng": -122.000},
+			{"lat": 67.367, "lng": -121.14},
+			{"lat": 67.695, "lng": -120.679}
+		]
+	},
+	{
+		"id": 6002,
+		"type": "Medical",
+		"title": "Grandma's",
+		"notes": "Where you go to revive without having to go to Pillbox.",
+		"order": 1,
+		"strokecolor": "FF005A",
+		"fillcolor": "FF005A",
+		"latlngarray": [
+			{"lat": 81.177, "lng": -101.018},
+			{"lat": 81.229, "lng": -100.743},
+			{"lat": 81.192, "lng": -100.457},
+			{"lat": 81.144, "lng": -100.776}
+		]
 	}
 ]
