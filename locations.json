@@ -17,7 +17,25 @@
 			{"lat": 69.881, "lng": -114.683},
 			{"lat": 70.002, "lng": -115.441},
 			{"lat": 69.725, "lng": -116.200},
-]
 		]
 	},
+	{
+		"id": 2,
+		"type": "Territory Areas",
+		"title": "The Devils",
+		"notes": "The Devils founded in October 2021 by Josh Dowling and Jimmy Salvador.",
+		"wiki_link": "",
+		"order": 2,
+		"strokecolor": "#FFFFFF",
+		"fillcolor": "#FFFFFF",
+		"latlngarray": [
+			{"lat": 63.806, "lng": -136.284},
+			{"lat": 63.985, "lng": -135.724},
+			{"lat": 63.371, "lng": -134.746},
+			{"lat": 63.302, "lng": -134.669},
+			{"lat": 63.198, "lng": -134.900},
+			{"lat": 63.114, "lng": -135.196}
+		]
+
+]
 ]
