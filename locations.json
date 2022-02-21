@@ -126,20 +126,17 @@
 	{
 		"id": 2002,
 		"type": "Neutral",
-		"title": "Alta Street Apartments",
+		"title": "Pink Cage",
 		"notes": "The Apartments is where new players wake up.",
 		"order": 1,
 		"strokecolor": "0080FF",
 		"fillcolor": "0080FF",
 		"latlngarray": [
-			{"lat": 66.022, "lng": -126.945},
-			{"lat": 66.196, "lng": -128.209},
-			{"lat": 66.583, "lng": -128.198},
-			{"lat": 66.557, "lng": -127.638},
-			{"lat": 66.500, "lng": -127.200},
-			{"lat": 66.337, "lng": -127.319},
-			{"lat": 66.255, "lng": -126.740}
-		]
+			{"lat": 68.816, "lng": -121.252},
+			{"lat": 68.959, "lng": -122.152},
+			{"lat": 69.292, "lng": -121.834},
+			{"lat": 69.179, "lng": -120.911}
+			]
 	},
 		{
 		"id": 5001,
