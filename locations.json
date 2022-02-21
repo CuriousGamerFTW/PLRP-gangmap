@@ -807,6 +807,21 @@
 			]
 	},
 	{
+		"id": 5008,
+		"type": "Legal",
+		"title": "Ranger Station",
+		"notes": "Ranger Station ran by Dave Haberman.",
+		"order": 1,
+		"strokecolor": "030397",
+		"fillcolor": "0000FF",
+		"latlngarray": [
+			{"lat": 69.405, "lng": -119.232},
+			{"lat": 69.528, "lng": -119.474},
+			{"lat": 69.559, "lng": -119.276},
+			{"lat": 69.463, "lng": -118.991}
+			]
+	},
+	{
 		"id": 5999,
 		"type": "Legal",
 		"title": "Credits",
