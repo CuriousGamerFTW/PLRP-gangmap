@@ -19,9 +19,9 @@
 	},
 	{	
 		"id": 2001,
-		"type": "Neutral Zones",
+		"type": "Neutral",
 		"title": "The Casino",
-		"notes": "The Casino is ran by the Government.",
+		"notes": "At the Casino you can do 2 daily spins on the wheel and use the blackjack tables it is ran by the Government.",
 		"order": 1,
 		"strokecolor": "0080FF",
 		"fillcolor": "0080FF",
@@ -39,7 +39,7 @@
 	},
 	{
 		"id": 2002,
-		"type": "Neutral Zones",
+		"type": "Neutral",
 		"title": "Alta Street Apartments",
 		"notes": "The Apartments is where new players wake up.",
 		"order": 1,
