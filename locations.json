@@ -721,18 +721,80 @@
 			]
 	},
 	{
-		"id": 8001,
+		"id": 8002,
 		"type": "Businesses",
-		"title": "White Widow",
-		"notes": "White Widow, owned by Dan J, Antonio Bolognio and Flower is the only place to pickup joints in the city which makes you more resistant to bullets.",
+		"title": "Animal Ark",
+		"notes": "",
 		"order": 1,
 		"strokecolor": "E759E1",
 		"fillcolor": "E759E1",
 		"latlngarray": [
-			{"lat": 68.643, "lng": -127.126},
-			{"lat": 68.667, "lng": -126.676},
-			{"lat": 68.353, "lng": -126.478},
-			{"lat": 68.345, "lng": -126.917}
+			]
+	},
+	{
+		"id": 8003,
+		"type": "Businesses",
+		"title": "",
+		"notes": "",
+		"order": 1,
+		"strokecolor": "E759E1",
+		"fillcolor": "E759E1",
+		"latlngarray": [
+			]
+	},
+	{
+		"id": 8004,
+		"type": "Businesses",
+		"title": "",
+		"notes": "",
+		"order": 1,
+		"strokecolor": "E759E1",
+		"fillcolor": "E759E1",
+		"latlngarray": [
+			]
+	},
+	{
+		"id": 8005,
+		"type": "Businesses",
+		"title": "",
+		"notes": "",
+		"order": 1,
+		"strokecolor": "E759E1",
+		"fillcolor": "E759E1",
+		"latlngarray": [
+			]
+	},
+	{
+		"id": 8006,
+		"type": "Businesses",
+		"title": "",
+		"notes": "",
+		"order": 1,
+		"strokecolor": "E759E1",
+		"fillcolor": "E759E1",
+		"latlngarray": [
+			]
+	},
+	{
+		"id": 8007,
+		"type": "Businesses",
+		"title": "",
+		"notes": "",
+		"order": 1,
+		"strokecolor": "E759E1",
+		"fillcolor": "E759E1",
+		"latlngarray": [
+			]
+	},
+	{
+		"id": 8008,
+		"type": "Businesses",
+		"title": "",
+		"notes": "",
+		"order": 1,
+		"strokecolor": "E759E1",
+		"fillcolor": "E759E1",
+		"latlngarray": [
 			]
 	},
 	{
@@ -866,7 +928,7 @@
 			{"lat": 65.294, "lng": -126.750},
 			{"lat": 65.294, "lng": -127.057}
 			]
-	}
+	},
 	{
 		"id": 9010,
 		"type": "Garages",
