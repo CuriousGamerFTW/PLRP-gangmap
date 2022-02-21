@@ -374,7 +374,7 @@
 		"type": "Heists",
 		"title": "Fleeca Bank - test2",
 		"notes": "The Fleeca Bank heist is a robbable banking and credit card company featured across Los Santos.",
-		"order": 2,
+		"order": 1,
 		"strokecolor": "FFD700",
 		"fillcolor": "FFD700",
 		"latlngarray": [
@@ -389,7 +389,7 @@
 		"type": "Heists",
 		"title": "Fleeca Bank - Pink Cage",
 		"notes": "The Fleeca Bank heist is a robbable banking and credit card company featured across Los Santos.",
-		"order": 2,
+		"order": 1,
 		"strokecolor": "FFD700",
 		"fillcolor": "FFD700",
 		"latlngarray": [
@@ -404,7 +404,7 @@
 		"type": "Heists",
 		"title": "Fleeca Bank - Legion Square ",
 		"notes": "The Fleeca Bank heist is a robbable banking and credit card company featured across Los Santos.",
-		"order": 2,
+		"order": 1,
 		"strokecolor": "FFD700",
 		"fillcolor": "FFD700",
 		"latlngarray": [
@@ -414,10 +414,23 @@
 			{"lat": 65.693, "lng": -122.744}
 			]
 	},
-
-
-
-
+	{
+		"id": 4009,
+		"type": "Heists",
+		"title": "Bobcat",
+		"notes": "The Bobcat security vault is a popular heist as you can very heavy classified weapons.",
+		"order": 1,
+		"strokecolor": "FFD700",
+		"fillcolor": "FFD700",
+		"latlngarray": [
+			{"lat": 60.547, "lng": -116.187},
+			{"lat": 60.552, "lng": -115.769},
+			{"lat": 60.204, "lng": -115.824},
+			{"lat": 60.335, "lng": -116.231},
+			{"lat": 60.335, "lng": -116.143},
+			{"lat": 60.226, "lng": -116.165}
+			]
+	},
 	{
 		"id": 5001,
 		"type": "Legal",
