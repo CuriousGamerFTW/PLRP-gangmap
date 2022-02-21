@@ -20,8 +20,8 @@
 	{
 		"id": 1002,
 		"type": "Territories",
-		"title": "The Greys",
-		"notes": "The Greys, founded by Wilson Powers and Dan J are considered the most deadly gang in Los Santos.",
+		"title": "The Greys - Port",
+		"notes": "The Greys, founded by Wilson Powers and Dan J, considered the most deadly gang in Los Santos own the port which is where their headquarters is based.",
 		"order": 1,
 		"strokecolor": "990000",
 		"fillcolor": "202020",
@@ -53,7 +53,7 @@
 		"notes": "The Greys members houses.",
 		"order": 1,
 		"strokecolor": "990000",
-		"fillcolor": "FF3333",
+		"fillcolor": "202020",
 		"latlngarray": [
 			{"lat": 63.378, "lng": -122.094},
 			{"lat": 62.438, "lng": -123.961},
@@ -68,7 +68,7 @@
 		"notes": "The Hogs, founded by Nexus are one of the main mechanic gangs who own Envys which is the most popular repair shop in the city.",
 		"order": 1,
 		"strokecolor": "990000",
-		"fillcolor": "FF3333",
+		"fillcolor": "006600",
 		"latlngarray": [
 			{"lat": 66.348, "lng": -115.879},
 			{"lat": 66.060, "lng": -115.890},
@@ -116,21 +116,6 @@
 	},	
 	{
 		"id": 1007,
-		"type": "Territories",
-		"title": "The Russians - Art Gallery",
-		"notes": "The Russians, founded by Slav Petrov is a Russian based gang.",
-		"order": 1,
-		"strokecolor": "990000",
-		"fillcolor": "FF3333",
-		"latlngarray": [
-			{"lat": 69.733, "lng": -129.371},
-			{"lat": 69.911, "lng": -129.360},
-			{"lat": 69.865, "lng": -128.547},
-			{"lat": 69.725, "lng": -128.558}
-			]
-	},	
-	{
-		"id": 1008,
 		"type": "Territories",
 		"title": "The Russians - Lake Vinewood Drive",
 		"notes": "The Russians ganghouse.",
@@ -180,7 +165,74 @@
 			{"lat": 69.179, "lng": -120.911}
 			]
 	},
-		{
+	{
+		"id": 2003,
+		"type": "Neutral",
+		"title": "The Russians - Art Gallery",
+		"notes": "The Russians, founded by Slav Petrov is a Russian based gang that own the Art Gallery but it is classed as neutral because many people visit.",
+		"order": 1,
+		"strokecolor": "00FF00",
+		"fillcolor": "FF3333",
+		"latlngarray": [
+			{"lat": 69.733, "lng": -129.371},
+			{"lat": 69.911, "lng": -129.360},
+			{"lat": 69.865, "lng": -128.547},
+			{"lat": 69.725, "lng": -128.558}
+			]
+	},	
+	{
+		"id": 3001,
+		"type": "Automotive",
+		"title": "Tuner Shop",
+		"notes": "The Tuner shop, owned by The Greys.",
+		"order": 1,
+		"strokecolor": "00CAD8",
+		"fillcolor": "00CAD8",
+		"latlngarray": [
+			{"lat": 69.022, "lng": -128.111},
+			{"lat": 69.299, "lng": -128.584},
+			{"lat": 69.419, "lng": -128.199},
+			{"lat": 69.373, "lng": -127.826},
+			{"lat": 69.338, "lng": -127.485},
+			{"lat": 69.089, "lng": -127.562}
+			]
+	},
+	{
+		"id": 3002,
+		"type": "Automotive",
+		"title": "Envy's",
+		"notes": "Envy's, owned by The Hogs.",
+		"order": 1,
+		"strokecolor": "00CAD8",
+		"fillcolor": "00CAD8",
+		"latlngarray": [
+			{"lat": 66.348, "lng": -115.879},
+			{"lat": 66.060, "lng": -115.890},
+			{"lat": 65.961, "lng": -115.769},
+			{"lat": 65.718, "lng": -115.736},
+			{"lat": 65.718, "lng": -115.516},
+			{"lat": 65.791, "lng": -115.296},
+			{"lat": 65.979, "lng": -115.219},
+			{"lat": 66.211, "lng": -115.252},
+			{"lat": 66.343, "lng": -115.428}
+			]
+	},
+	{
+		"id": 3003,
+		"type": "Automotive",
+		"title": "Hayes",
+		"notes": "Hayes, owned by Neilis Cummings.",
+		"order": 1,
+		"strokecolor": "00CAD8",
+		"fillcolor": "00CAD8",
+		"latlngarray": [
+			{"lat": 68.095, "lng": -138.560},
+			{"lat": 68.029, "lng": -138.428},
+			{"lat": 68.144, "lng": -137.956},
+			{"lat": 68.209, "lng": -138.077}
+			]
+	},
+	{
 		"id": 5001,
 		"type": "Legal",
 		"title": "Mission Row PD",
@@ -240,5 +292,50 @@
 			{"lat": 79.108, "lng": -106.547},
 			{"lat": 79.043, "lng": -107.151}
 		]
+	},
+	{
+		"id": 5005,
+		"type": "Legal",
+		"title": "C&C Attorneys Office",
+		"notes": "C&C, founded by Tony Casino and Connor O'Brin are the only legal representatives in the city.",
+		"order": 1,
+		"strokecolor": "030397",
+		"fillcolor": "0000FF",
+		"latlngarray": [
+			{"lat": 65.728, "lng": -120.635},
+			{"lat": 65.723, "lng": -119.844},
+			{"lat": 65.524, "lng": -119.822},
+			{"lat": 65.528, "lng": -120.646}
+			]
+	},
+	{
+		"id": 5006,
+		"type": "Legal",
+		"title": "The Courthouse",
+		"notes": "The Courthouse is ran by the Government where you can get your ID and check your record, it also hosts courtcases such as the famed Frankie vs PD.",
+		"order": 1,
+		"strokecolor": "030397",
+		"fillcolor": "0000FF",
+		"latlngarray": [
+			{"lat": 65.728, "lng": -120.635},
+			{"lat": 65.723, "lng": -119.844},
+			{"lat": 65.524, "lng": -119.822},
+			{"lat": 65.528, "lng": -120.646}
+			]
+	},
+	{
+		"id": 5007,
+		"type": "Legal",
+		"title": "Impound Lot",
+		"notes": "Where cars go when they get impounded.",
+		"order": 1,
+		"strokecolor": "030397",
+		"fillcolor": "0000FF",
+		"latlngarray": [
+			{"lat": 69.405, "lng": -119.232},
+			{"lat": 69.528, "lng": -119.474},
+			{"lat": 69.559, "lng": -119.276},
+			{"lat": 69.463, "lng": -118.991}
+			]
 	}
 ]
