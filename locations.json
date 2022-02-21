@@ -5,8 +5,8 @@
 		"title": "The Devils",
 		"notes": "The Devils are a gang founded in October 2021 by Josh Dowling and Jimmy Salvador.",
 		"order": 1,
-		"strokecolor": "#000000",
-		"fillcolor": "#C3C3C3",
+		"strokecolor": "000000",
+		"fillcolor": "C3C3C3",
 		"latlngarray": [
 			{"lat": 63.791, "lng": -136.241},
 			{"lat": 63.989, "lng": -135.736},
@@ -28,12 +28,12 @@
 	
 	{	
 		"id": 1001,
-		"type": "Neutral",
+		"type": "Neutral Zones",
 		"title": "The Casino",
 		"notes": "The Casino is ran by the Government.",
 		"order": 1,
-		"strokecolor": "#0080FF",
-		"fillcolor": "#0080FF",
+		"strokecolor": "0080FF",
+		"fillcolor": "0080FF",
 		"latlngarray": [
 			{"lat": 69.523, "lng": -116.619},
 			{"lat": 69.399, "lng": -116.168},
@@ -51,8 +51,8 @@
 		"title": "Alta Street Apartments",
 		"notes": "The Apartments is where new players wake up.",
 		"order": 1,
-		"strokecolor": "#0080FF",
-		"fillcolor": "#0080FF",
+		"strokecolor": "0080FF",
+		"fillcolor": "0080FF",
 		"latlngarray": [
 			{"lat": 66.022, "lng": -126.945},
 			{"lat": 66.196, "lng": -128.209},
@@ -72,8 +72,8 @@
 		"title": "Mission Row PD",
 		"notes": "The Los Santos Police Department, along with the Paleto Bay Sheriff's Office, the Senora Desert Sheriff's Office, the San Andreas State Police and the San Andreas State Park Rangers, makes up the executive branch of Los Santos; together they ensure that the law is upheld and enforced.",
 		"order": 1,
-		"strokecolor": "#FF0000",
-		"fillcolor": #0000FF",
+		"strokecolor": "FF0000",
+		"fillcolor": 0000FF",
 		"latlngarray": [
 			{"lat": 66.151, "lng": -120.516},
 			{"lat": 65.906, "lng": -120.516},
