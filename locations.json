@@ -1109,8 +1109,8 @@
 	{
 		"id": 8008,
 		"type": "Businesses",
-		"title": "Bahamamamas",
-		"notes": "Bahamamamas, owned by Tyla Blue is a recently opened nightclub with special drinks.",
+		"title": "Bahama'mamas",
+		"notes": "Bahama'mamas, owned by Tyla Blue is a recently opened nightclub with special drinks.",
 		"order": 1,
 		"strokecolor": "E759E1",
 		"fillcolor": "E759E1",
@@ -1126,7 +1126,7 @@
 			]
 	},
 	{
-		"id": 8008,
+		"id": 8009,
 		"type": "Businesses",
 		"title": "Bulldog Billiads",
 		"notes": "Bulldog Billiads, owned by Abbie Jade has functional pool tables and a variety of food and drink.",
