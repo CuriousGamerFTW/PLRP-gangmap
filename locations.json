@@ -208,6 +208,24 @@
 			]
 	},
 	{
+		"id": 1011,
+		"type": "Territories",
+		"title": "Sons of Odin MC",
+		"notes": "",
+		"order": 1,
+		"strokecolor": "990000",
+		"fillcolor": "C4F1FF ",
+		"latlngarray": [
+			{"lat": 59.578, "lng": -116.900},
+			{"lat": 59.433, "lng": -114.330},
+			{"lat": 59.028, "lng": -114.407},
+			{"lat": 58.915, "lng": -115.494},
+			{"lat": 58.960, "lng": -116.538},
+			{"lat": 59.045, "lng": -117.131},
+			{"lat": 59.472, "lng": -117.164}
+			]
+	},
+	{
 		"id": 1999,
 		"type": "Territories",
 		"title": "Credits",
