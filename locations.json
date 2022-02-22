@@ -184,6 +184,30 @@
 			]
 	},
 	{
+		"id": 1010,
+		"type": "Territories",
+		"title": "GSF",
+		"notes": "GSF are a South side gang founded by Jimbo.",
+		"order": 1,
+		"strokecolor": "990000",
+		"fillcolor": "009900",
+		"latlngarray": [
+			{"lat": 64.091, "lng": -126.920},
+			{"lat": 63.879, "lng": -127.150},
+			{"lat": 63.626, "lng": -127.381},
+			{"lat": 63.307, "lng": -127.799},
+			{"lat": 62.815, "lng": -126.304},
+			{"lat": 63.475, "lng": -125.140},
+			{"lat": 63.631, "lng": -124.821},
+			{"lat": 64.387, "lng": -123.393},
+			{"lat": 64.453, "lng": -123.756},
+			{"lat": 64.468, "lng": -124.580},
+			{"lat": 64.444, "lng": -125.546},
+			{"lat": 64.320, "lng": -126.228},
+			{"lat": 64.244, "lng": -126.491}
+			]
+	},
+	{
 		"id": 1999,
 		"type": "Territories",
 		"title": "Credits",
