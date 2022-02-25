@@ -1160,6 +1160,21 @@
 			]
 	},
 	{
+		"id": 8010,
+		"type": "Businesses",
+		"title": "Dirty Angels",
+		"notes": "Dirty Angels, one of the hottest nightclubs in the city.",
+		"order": 1,
+		"strokecolor": "E759E1",
+		"fillcolor": "E759E1",
+		"latlngarray": [
+			{"lat": 70.315, "lng": -121.887},
+			{"lat": 70.511, "lng": -121.678},
+			{"lat": 70.530, "lng": -121.250},
+			{"lat": 70.275, "lng": -121.492}
+			]
+	},
+	{
 		"id": 8999,
 		"type": "Businesses",
 		"title": "Credits",
@@ -1190,6 +1205,7 @@
 			{"lat": 63.938, "lng": -142.985}
 			]
 	},
+	
 	{
 		"id": 9001,
 		"type": "Garages",
