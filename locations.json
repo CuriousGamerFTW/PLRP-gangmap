@@ -1175,6 +1175,21 @@
 			]
 	},
 	{
+		"id": 8011,
+		"type": "Businesses",
+		"title": "Diego's Pharmacy",
+		"notes": "Diego's Pharmacy, owned by, you guessed it Diego is a great place to buy any of your pharmaceutical needs.",
+		"order": 1,
+		"strokecolor": "E759E1",
+		"fillcolor": "E759E1",
+		"latlngarray": [
+			{"lat": 63.661, "lng": -123.901},
+			{"lat": 63.574, "lng": -123.506},
+			{"lat": 63.471, "lng": -123.670},
+			{"lat": 63.583, "lng": -124.055}
+			]
+	},
+	{
 		"id": 8999,
 		"type": "Businesses",
 		"title": "Credits",
