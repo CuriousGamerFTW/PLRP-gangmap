@@ -345,6 +345,25 @@
 			]
 	},
 	{
+		"id": 2005,
+		"type": "Neutral",
+		"title": "Higgins",
+		"notes": "Higgins, where you get your pilot license and store your air vehicles.",
+		"order": 1,
+		"strokecolor": "00FF00",
+		"fillcolor": "FF3333",
+		"latlngarray": [
+			{"lat": 64.685, "lng": -132.746},
+			{"lat": 64.477, "lng": -132.581},
+			{"lat": 64.458, "lng": -132.317},
+			{"lat": 64.614, "lng": -132.010},
+			{"lat": 64.708, "lng": -131.856},
+			{"lat": 64.788, "lng": -132.021},
+			{"lat": 64.704, "lng": -132.196},
+			{"lat": 64.647, "lng": -132.032}
+			]
+	},
+	{
 		"id": 2999,
 		"type": "Neutral",
 		"title": "Credits",
